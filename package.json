@@ -1,6 +1,6 @@
 {
   "name": "arichardt-primefinder",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "This package find the two closest prime numbers greater than the number you choose.",
   "main": "index.js",
   "scripts": {
