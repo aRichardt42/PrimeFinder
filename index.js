@@ -11,7 +11,6 @@ function primeFinder(n) {
       const sqrt = Math.sqrt(m)
     for(let x = 2; x < sqrt; x++)
     {
-      //console.log(m%x)
       if (x == 2 || x % 2 != 0){
         const D = m%x
         if(D === 0){
@@ -21,7 +20,4 @@ function primeFinder(n) {
     }
     return true
   }
-  console.log(primeFinder(10000000000000000))
-  //console.log(isPrime(19999873))
-  // Leave this so we can test your code:
   module.exports = primeFinder;

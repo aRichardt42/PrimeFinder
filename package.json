@@ -1,0 +1,24 @@
+{
+  "name": "arichardt-primefinder",
+  "version": "1.0.1",
+  "description": "This package find the two closest prime numbers greater than the number you choose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aRichardt42/PrimeFinder.git"
+  },
+  "keywords": [
+    "Prime",
+    "Number",
+    "JavaScript"
+  ],
+  "author": "Alexander Richardt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aRichardt42/PrimeFinder/issues"
+  },
+  "homepage": "https://github.com/aRichardt42/PrimeFinder#readme"
+}
